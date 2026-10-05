@@ -1,0 +1,18 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "plan-harden-loop",
+  "description": "Adversarial plan review for Claude Code. Harden a plan with an independent reviewer before implementation.",
+  "owner": {
+    "name": "Joshua Scarle",
+    "url": "https://github.com/Joshua-Scarle"
+  },
+  "plugins": [
+    {
+      "name": "plan-harden-loop",
+      "description": "Red-team a plan with an independent reviewer and iterate until nothing above low severity remains, before you implement it.",
+      "source": "./",
+      "category": "development",
+      "homepage": "https://github.com/Joshua-Scarle/Claude-code-plan-harden-loop-skill"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "plan-harden-loop",
+  "version": "1.0.0",
+  "description": "Red-team a plan with an independent reviewer and iterate until nothing above low severity remains, before you implement it.",
+  "author": {
+    "name": "Joshua Scarle",
+    "url": "https://github.com/Joshua-Scarle"
+  },
+  "homepage": "https://github.com/Joshua-Scarle/Claude-code-plan-harden-loop-skill",
+  "repository": "https://github.com/Joshua-Scarle/Claude-code-plan-harden-loop-skill",
+  "license": "Apache-2.0",
+  "keywords": ["planning", "review", "red-team", "claude-code", "skills"]
+}
